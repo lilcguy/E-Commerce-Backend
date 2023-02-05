@@ -60,7 +60,7 @@ Use the `schema.sql` file in the `db` folder to create your database with MySQL 
 
 Your database should contain the following four models, including the requirements listed for each model:
 
-* `Category`
+* `Category`x
 
   * `id`
 
@@ -78,7 +78,7 @@ Your database should contain the following four models, including the requiremen
   
     * Doesn't allow null values.
 
-* `Product`
+* `Product`x
 
   * `id`
   

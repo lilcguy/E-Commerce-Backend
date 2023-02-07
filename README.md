@@ -20,11 +20,11 @@ Walkthrough video: https://drive.google.com/file/d/1nYvT01K3EUP8TC5noTOFVMS-Owjv
 
 Screenshots are found in the Assets folder.
 
-    ```md
+  
     ![alt text](assets/sourcing.png)
     ![alt text](assets/sseeding.png)
     ![alt text](assets/starting.png)
     ![alt text](assets/insomnia-requests.png)
-    ```
+  
 
 

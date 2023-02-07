@@ -15,10 +15,10 @@ In the terminal, open up the MYSQL interface with the command `mysql -u root -p`
 `npm run seed` to seed the database with information. If one desires, one can run the command `SELECT * FROM category` in MYSQL to see that the category table has information in it to verify seeding. After seeding, run the command `npm run start` to start the server.
 Because the application is all backend, one can use the application Insomnia to hit the routes found in the routes folder. These include get, post, put, and delete requests.
 
+Walkthrough video: https://drive.google.com/file/d/1nYvT01K3EUP8TC5noTOFVMS-OwjvTu8y/view?usp=share_link 
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Screenshots are found in the Assets folder.
 
     ```md
     ![alt text](assets/sourcing.png)
